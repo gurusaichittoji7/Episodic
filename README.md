@@ -1,5 +1,5 @@
 # 🧠 Episodic
-### *Named after episodic memory, the human brain's ability to recall specific past experiences.*
+### *A chatbot that remembers your past conversations, even after you close the browser."*
 
 ## Live Demo
 http://44.249.245.134
