@@ -12,7 +12,7 @@ Episodic is a personal AI chatbot that remembers every conversation. Unlike stan
 - **Claude Haiku** — LLM (Anthropic)
 - **JSON file** — persistent memory storage
 - **Nginx + systemd** — production serving & auto-restart
-- **AWS Lightsail** — cloud deployment
+- **AWS Lightsail** — cloud deployment.
 
 ## Local Setup
 ```bash
